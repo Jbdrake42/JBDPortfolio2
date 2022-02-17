@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "homepage": "https://Jbdrake42.github.io/JBDPortfolio2",
+  "proxy": "http://localhost:3000",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
