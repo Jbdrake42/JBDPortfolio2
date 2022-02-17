@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "//JBDPortfolio2/static/css/main.ba4f452e.css",
+    "main.js": "//JBDPortfolio2/static/js/main.53baa5db.js",
+    "static/js/787.86e70ff7.chunk.js": "//JBDPortfolio2/static/js/787.86e70ff7.chunk.js",
+    "static/media/Untitled.png": "//JBDPortfolio2/static/media/Untitled.21e8698520d3fcb53c5d.png",
+    "static/media/staticLayout.png": "//JBDPortfolio2/static/media/staticLayout.ffe45cc5f1cfb08ea447.png",
+    "static/media/cssCreature.png": "//JBDPortfolio2/static/media/cssCreature.2b77de37496932407963.png",
+    "static/media/ApiProject2.png": "//JBDPortfolio2/static/media/ApiProject2.a97736460d525d0eb407.png",
+    "static/media/APIProject1.png": "//JBDPortfolio2/static/media/APIProject1.65bbff4bfc40a12b1f2b.png",
+    "static/media/2668.jpg": "//JBDPortfolio2/static/media/2668.5e0b4d85917520e921e0.jpg",
+    "static/media/klipartz.com(4).png": "//JBDPortfolio2/static/media/klipartz.com(4).c5719c3c13820c85583c.png",
+    "static/media/klipartz.com (2).png": "//JBDPortfolio2/static/media/klipartz.com (2).0b7eea1a4a2576e1cf7e.png",
+    "static/media/klipartz.com.png": "//JBDPortfolio2/static/media/klipartz.com.5ef53aeaa3173f97b6f7.png",
+    "static/media/linkedin.png": "//JBDPortfolio2/static/media/linkedin.a680cb8ad2b88be03d17.png",
+    "static/media/Resume.png": "//JBDPortfolio2/static/media/Resume.41fc21f177f39586bfeb.png",
+    "static/media/github.png": "//JBDPortfolio2/static/media/github.de90b376d132a7b2c224.png",
+    "static/media/klipartz.com (1).png": "//JBDPortfolio2/static/media/klipartz.com (1).8fe38f8ad2704eefca9c.png",
+    "index.html": "//JBDPortfolio2/index.html",
+    "main.ba4f452e.css.map": "//JBDPortfolio2/static/css/main.ba4f452e.css.map",
+    "main.53baa5db.js.map": "//JBDPortfolio2/static/js/main.53baa5db.js.map",
+    "787.86e70ff7.chunk.js.map": "//JBDPortfolio2/static/js/787.86e70ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba4f452e.css",
+    "static/js/main.53baa5db.js"
+  ]
+}
